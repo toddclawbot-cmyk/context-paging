@@ -180,3 +180,7 @@ Simulates a 40-tool-call session, reports token savings and a per-tool breakdown
 ## Status
 
 MVP — fully implemented, 63 tests passing, benchmark hits 85.6% token reduction. Not yet wired into a production harness.
+
+## Empirical results (2026-06-05)
+
+A real LLM agent ran 3 realistic coding tasks in both BASELINE and PAGED modes against a controlled corpus. Same calls, same answer quality, **34–73% fewer tokens seen** in PAGED mode. See [`bench/EMPIRICAL-RESULTS.md`](./bench/EMPIRICAL-RESULTS.md) for the full writeup, and [`bench/agent-trials/`](./bench/agent-trials/) for the reproducible harness.

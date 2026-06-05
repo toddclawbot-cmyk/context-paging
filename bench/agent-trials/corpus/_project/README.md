@@ -1,0 +1,1 @@
+# MyShop\n\nA small e-commerce backend (synthetic corpus).\n
