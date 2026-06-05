@@ -1,0 +1,146 @@
+[
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-BASELINE-0-wj9gidvc",
+    "task_id": "T1",
+    "condition": "BASELINE",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-BASELINE-1-_hmcb930",
+    "task_id": "T1",
+    "condition": "BASELINE",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-PAGED-0-om9e49sb",
+    "task_id": "T1",
+    "condition": "PAGED",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-PAGED-1-_gg290wm",
+    "task_id": "T1",
+    "condition": "PAGED",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-NULL-PAGER-0-by2x0o49",
+    "task_id": "T1",
+    "condition": "NULL-PAGER",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T1-NULL-PAGER-1-8dhhui__",
+    "task_id": "T1",
+    "condition": "NULL-PAGER",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-BASELINE-0-j2hr3ec2",
+    "task_id": "T2",
+    "condition": "BASELINE",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-BASELINE-1-21x2d7b1",
+    "task_id": "T2",
+    "condition": "BASELINE",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-PAGED-0-_ij0dko4",
+    "task_id": "T2",
+    "condition": "PAGED",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-PAGED-1-m08daiks",
+    "task_id": "T2",
+    "condition": "PAGED",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-NULL-PAGER-0-6iv7lf7k",
+    "task_id": "T2",
+    "condition": "NULL-PAGER",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T2-NULL-PAGER-1-7mqi8er3",
+    "task_id": "T2",
+    "condition": "NULL-PAGER",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-BASELINE-0-vpz3x8fr",
+    "task_id": "T3",
+    "condition": "BASELINE",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-BASELINE-1-gp22tis5",
+    "task_id": "T3",
+    "condition": "BASELINE",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-PAGED-0-2tjx97lq",
+    "task_id": "T3",
+    "condition": "PAGED",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-PAGED-1-eb7r5qhk",
+    "task_id": "T3",
+    "condition": "PAGED",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-NULL-PAGER-0-oa47uthf",
+    "task_id": "T3",
+    "condition": "NULL-PAGER",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T3-NULL-PAGER-1-xvfmxi6m",
+    "task_id": "T3",
+    "condition": "NULL-PAGER",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-BASELINE-0-h9nswb3f",
+    "task_id": "T4",
+    "condition": "BASELINE",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-BASELINE-1-4a3w3onc",
+    "task_id": "T4",
+    "condition": "BASELINE",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-PAGED-0-3t7tlziw",
+    "task_id": "T4",
+    "condition": "PAGED",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-PAGED-1-9wpsv50j",
+    "task_id": "T4",
+    "condition": "PAGED",
+    "trial_num": 1
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-NULL-PAGER-0-8hk3xikv",
+    "task_id": "T4",
+    "condition": "NULL-PAGER",
+    "trial_num": 0
+  },
+  {
+    "workdir": "/var/folders/xk/c9qx0v753kx__p2rx7j8w7vh0000gn/T/trial-T4-NULL-PAGER-1-9wlkw87p",
+    "task_id": "T4",
+    "condition": "NULL-PAGER",
+    "trial_num": 1
+  }
+]

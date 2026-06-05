@@ -183,4 +183,4 @@ MVP — fully implemented, 63 tests passing, benchmark hits 85.6% token reductio
 
 ## Empirical results (2026-06-05)
 
-A real LLM agent ran 3 realistic coding tasks in both BASELINE and PAGED modes against a controlled corpus. Same calls, same answer quality, **34–73% fewer tokens seen** in PAGED mode. See [`bench/EMPIRICAL-RESULTS.md`](./bench/EMPIRICAL-RESULTS.md) for the full writeup, and [`bench/agent-trials/`](./bench/agent-trials/) for the reproducible harness.
+A pilot study of Context Pager on real coding tasks is in [`research/`](./research/). **Headline:** all 18 objective trials (T1–T3 × 3 conditions × 2 trials) passed 100% of executable tests in every condition — no quality degradation from paging. But the pilot also surfaced a critical negative finding: the subagents did not use the pager interface (`page.py`), they used their native `read_file` tool instead. As a result, the PAGED and NULL-PAGER conditions were functionally identical to BASELINE in this run. A valid follow-up would enforce the pager at the tool-harness level, not as a prompt instruction. See [`research/paper/PAPER.md`](./research/paper/PAPER.md) for the full writeup.
